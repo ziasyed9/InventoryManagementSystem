@@ -1,0 +1,15 @@
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net8.0/InventoryManagementSystem
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net8.0/InventoryManagementSystem.deps.json
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net8.0/InventoryManagementSystem.runtimeconfig.json
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net8.0/InventoryManagementSystem.dll
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/bin/Debug/net8.0/InventoryManagementSystem.pdb
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.AssemblyInfoInputs.cache
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.AssemblyInfo.cs
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.sourcelink.json
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.dll
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/refint/InventoryManagementSystem.dll
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.pdb
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/InventoryManagementSystem.genruntimeconfig.cache
+/Users/ziasyed/Documents/Projects/InventoryManagementSystem/InventoryManagementSystem/obj/Debug/net8.0/ref/InventoryManagementSystem.dll
